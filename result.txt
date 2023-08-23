@@ -1,0 +1,103 @@
+
+Observation sequence Q:	CLLCCLLLCCL
+Length of Q:	11
+
+
+After  Observation  :1 = C
+P(h1|Q) = 0.2
+P(h2|Q) = 0.30000000000000004
+P(h3|Q) = 0.4
+P(h4|Q) = 0.1
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.65
+Probability : next picked candy is Lime when given Q:0.35
+
+After  Observation  :2 = L
+P(h1|Q) = 0.0
+P(h2|Q) = 0.21428571428571433
+P(h3|Q) = 0.5714285714285715
+P(h4|Q) = 0.21428571428571433
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.5000000000000001
+Probability : next picked candy is Lime when given Q:0.4999999999999999
+
+After  Observation  :3 = L
+P(h1|Q) = 0.0
+P(h2|Q) = 0.10714285714285719
+P(h3|Q) = 0.5714285714285716
+P(h4|Q) = 0.32142857142857156
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.4464285714285716
+Probability : next picked candy is Lime when given Q:0.5535714285714284
+
+After  Observation  :4 = C
+P(h1|Q) = 0.0
+P(h2|Q) = 0.18
+P(h3|Q) = 0.6399999999999999
+P(h4|Q) = 0.18
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.49999999999999994
+Probability : next picked candy is Lime when given Q:0.5
+
+After  Observation  :5 = C
+P(h1|Q) = 0.0
+P(h2|Q) = 0.2700000000000001
+P(h3|Q) = 0.64
+P(h4|Q) = 0.09000000000000001
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.545
+Probability : next picked candy is Lime when given Q:0.45499999999999996
+
+After  Observation  :6 = L
+P(h1|Q) = 0.0
+P(h2|Q) = 0.1483516483516484
+P(h3|Q) = 0.7032967032967034
+P(h4|Q) = 0.14835164835164838
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.5000000000000001
+Probability : next picked candy is Lime when given Q:0.4999999999999999
+
+After  Observation  :7 = L
+P(h1|Q) = 0.0
+P(h2|Q) = 0.07417582417582422
+P(h3|Q) = 0.7032967032967035
+P(h4|Q) = 0.22252747252747263
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.46291208791208804
+Probability : next picked candy is Lime when given Q:0.537087912087912
+
+After  Observation  :8 = L
+P(h1|Q) = 0.0
+P(h2|Q) = 0.034526854219948874
+P(h3|Q) = 0.6547314578005118
+P(h4|Q) = 0.3107416879795398
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.43094629156010256
+Probability : next picked candy is Lime when given Q:0.5690537084398974
+
+After  Observation  :9 = C
+P(h1|Q) = 0.0
+P(h2|Q) = 0.06008902077151336
+P(h3|Q) = 0.7596439169139465
+P(h4|Q) = 0.18026706231454007
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.4699554896142433
+Probability : next picked candy is Lime when given Q:0.5300445103857567
+
+After  Observation  :10 = C
+P(h1|Q) = 0.0
+P(h2|Q) = 0.09589581689029204
+P(h3|Q) = 0.8082083662194158
+P(h4|Q) = 0.09589581689029203
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.5
+Probability : next picked candy is Lime when given Q:0.5
+
+After  Observation  :11 = L
+P(h1|Q) = 0.0
+P(h2|Q) = 0.04794790844514602
+P(h3|Q) = 0.8082083662194158
+P(h4|Q) = 0.14384372533543804
+P(h5|Q) = 0.0
+Probability : next picked candy is Cherry when given Q: 0.47602604577742696
+Probability : next picked candy is Lime when given Q:0.523973954222573
